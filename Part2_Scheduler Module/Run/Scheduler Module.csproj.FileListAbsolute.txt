@@ -1,0 +1,6 @@
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\Source Code2\OS2\bin\Debug\OS2.exe.config
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\Source Code2\OS2\obj\Debug\OS2.exe
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\Source Code2\OS2\obj\Debug\OS2.pdb
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\Source Code\OS2\bin\Debug\OS2.exe.config
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\Source Code\OS2\obj\Debug\OS2.exe
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\Source Code\OS2\obj\Debug\OS2.pdb
