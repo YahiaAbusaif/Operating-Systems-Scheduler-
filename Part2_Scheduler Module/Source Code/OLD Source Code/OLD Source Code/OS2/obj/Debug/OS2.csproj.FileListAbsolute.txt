@@ -1,0 +1,15 @@
+D:\Computer department\imple\OS2\OS2\bin\Debug\OS2.exe.config
+D:\Computer department\imple\OS2\OS2\obj\Debug\OS2.Form1.resources
+D:\Computer department\imple\OS2\OS2\obj\Debug\OS2.Properties.Resources.resources
+D:\Computer department\imple\OS2\OS2\obj\Debug\OS2.csproj.GenerateResource.Cache
+D:\Computer department\imple\OS2\OS2\bin\Debug\OS2.exe
+D:\Computer department\imple\OS2\OS2\bin\Debug\OS2.pdb
+D:\Computer department\imple\OS2\OS2\obj\Debug\OS2.exe
+D:\Computer department\imple\OS2\OS2\obj\Debug\OS2.pdb
+D:\Computer department\imple\OS2\OS2\obj\Debug\OS2.csprojResolveAssemblyReference.cache
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\OS2_final\OS2\bin\Debug\OS2.exe.config
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\OS2_final\OS2\obj\Debug\OS2.exe
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\OS2_final\OS2\obj\Debug\OS2.pdb
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\Source Code\OS2\bin\Debug\OS2.exe.config
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\Source Code\OS2\obj\Debug\OS2.exe
+D:\Computer department\imple\OS_MiniProject1_Team26\Part2_Scheduler Module\Source Code\OS2\obj\Debug\OS2.pdb
